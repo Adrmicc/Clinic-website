@@ -34,10 +34,10 @@ export function Testimonials() {
         <div className="max-w-6xl mx-auto">
           {/* Header */}
           <div className="text-center mb-16">
-            <h2 className="font-serif text-4xl sm:text-5xl font-bold text-foreground mb-6">Opinie naszych pacjentek</h2>
+            <h2 className="font-serif text-4xl sm:text-5xl font-bold text-foreground mb-6">Opinie naszych klientów</h2>
             <div className="w-20 h-1 bg-primary mx-auto mb-8" />
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              Zaufały nam setki zadowolonych pacjentek. Przeczytaj, co mówią o naszych zabiegach.
+              Zaufały nam setki zadowolonych klientów. Przeczytaj, co mówią o naszych zabiegach.
             </p>
           </div>
 
