@@ -24,7 +24,7 @@ export function Hero() {
               Umów wizytę
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
-            <Button size="lg" variant="outline" className="text-base px-8 py-6 border-2 bg-transparent">
+            <Button size="lg" variant="outline" className="text-base px-8 py-6 border-2 bg-transparent" asChild>
               <a href="#zabiegi">Zobacz zabiegi</a>
             </Button>
           </div>
