@@ -20,7 +20,10 @@ export const metadata: Metadata = {
   title: "Klinika Medycyny Estetycznej | Laser, Kosmetologia, Dermatologia",
   description:
     "Profesjonalna klinika medycyny estetycznej oferująca depilację laserową, kosmetologię, medycynę estetyczną i dermatologię.",
-    generator: 'v0.app'
+  icons: {
+    icon: "/clinic-logo.jpg",
+    apple: "/clinic-logo.jpg",
+  },
 }
 
 export default function RootLayout({
