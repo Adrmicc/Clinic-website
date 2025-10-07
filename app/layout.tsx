@@ -24,6 +24,21 @@ export const metadata: Metadata = {
     icon: "/clinic-logo.jpg",
     apple: "/clinic-logo.jpg",
   },
+  openGraph: {
+    title: "Klinika Medycyny Estetycznej | Laser, Kosmetologia, Dermatologia",
+    description:
+      "Profesjonalna klinika medycyny estetycznej oferująca depilację laserową, kosmetologię, medycynę estetyczną i dermatologię.",
+    images: [
+      {
+        url: "/clinic-logo.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Klinika Medycyny Estetycznej",
+      },
+    ],
+    locale: "pl_PL",
+    type: "website",
+  },
 }
 
 export default function RootLayout({
