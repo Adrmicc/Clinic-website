@@ -33,7 +33,7 @@ export function Navigation() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <a href="#" className="flex items-center space-x-2">
-            <div className="text-2xl font-serif font-semibold text-foreground">LaserBeauty</div>
+            <div className="text-2xl font-serif font-semibold text-foreground">Blazer</div>
           </a>
 
           {/* Desktop Navigation */}

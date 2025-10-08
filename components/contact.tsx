@@ -121,7 +121,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground mb-1">Adres</p>
-                      <p className="text-muted-foreground">ul. Pretficza 21</p>
+                      <p className="text-muted-foreground">ul. Przykładowa 21</p>
                       <p className="text-muted-foreground">53-328 Wrocław</p>
                     </div>
                   </div>
@@ -132,7 +132,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground mb-1">Telefon</p>
-                      <p className="text-muted-foreground">+48 781 406 442</p>
+                      <p className="text-muted-foreground">+48 111 222 333</p>
                     </div>
                   </div>
 
@@ -142,7 +142,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground mb-1">Email</p>
-                      <p className="text-muted-foreground">info@laserbeauty.pl</p>
+                      <p className="text-muted-foreground">info@salon.pl</p>
                     </div>
                   </div>
 
@@ -164,7 +164,7 @@ export function Contact() {
               <Card className="border-2 overflow-hidden">
                 <div className="h-64 bg-muted relative">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10023.674299551976!2d17.0095878!3d51.0915102!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b939c5a46d7ec3!2slaserBeauty!5e0!3m2!1spl!2spl!4v1638966440362!5m2!1spl!2spl"
+                    src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Olympic%20Blvd,%20Melbourne%20VIC%203001,%20Australia+(Park)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}

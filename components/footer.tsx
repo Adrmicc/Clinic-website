@@ -8,7 +8,7 @@ export function Footer() {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             {/* Brand */}
             <div className="space-y-4">
-              <h3 className="font-serif text-2xl font-semibold">LaserBeauty</h3>
+              <h3 className="font-serif text-2xl font-semibold">Blazer</h3>
               <p className="text-sm text-background/80 leading-relaxed">
                 Profesjonalna klinika medycyny estetycznej i kosmetologii
               </p>
@@ -59,14 +59,14 @@ export function Footer() {
                 <li>ul. Piękna 15/3</li>
                 <li>00-001 Warszawa</li>
                 <li>+48 123 456 789</li>
-                <li>kontakt@LaserBeauty.pl</li>
+                <li>kontakt@Blazer.pl</li>
               </ul>
             </div>
           </div>
 
           {/* Bottom Bar */}
           <div className="border-t border-background/20 pt-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-sm text-background/80">© 2025 LaserBeauty. Wszelkie prawa zastrzeżone.</p>
+            <p className="text-sm text-background/80">© 2025 Blazer. Wszelkie prawa zastrzeżone.</p>
             <div className="flex items-center space-x-4">
               <a
                 href="#"
